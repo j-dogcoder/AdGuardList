@@ -1,0 +1,14 @@
+# Title: j-dogcoder/AdGuardList
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Created Date: 26 October 2021
+# Last Updated Date: 26 October 2021 
+# Number of Domains: Unknown (recalculating)
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/j-dogcoder/AdGuardList/master/blocked.list
+# Project home page: https://github.com/j-dogcoder/AdGuardList
+# Project releases: https://github.com/j-dogcoder/AdGuardList/releases
+#
+# ===============================================================
