@@ -11,6 +11,11 @@
 !!!This list only applies to "AdGuard Home".
 !!!It is not intended for use on other AdGuard products.
 !
+!
+! Stuff in next section has been coustom added by me
+||https://yt3.ggpht.com/^
+!
+!
 @@||ad.azure.com^
 @@||ads.taboola.com^
 @@||tracker.eu.org^
