@@ -1,6 +1,6 @@
 ! Version: 0.0
 ! Title: Custom Main AdGuardList
-! Last modified: 08 Nov 2021 15:11 UTC
+! Last modified: 08 Nov 2021 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/j-dogcoder/AdGuardList
 ! Number of rules: 76,761

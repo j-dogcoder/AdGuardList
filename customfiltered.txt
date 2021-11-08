@@ -1,6 +1,6 @@
 ! Version: 0.0
 ! Title: Custom Pruned AdGuardList
-! Last modified: 08 Nov 2021 15:11 UTC
+! Last modified: 08 Nov 2021 17:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/j-dogcoder/AdGuardList
 ! Number of rules: 2
