@@ -3,7 +3,7 @@
 ! Last modified: 08 Nov 2021 15:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/j-dogcoder/AdGuardList
-! Number of rules: 54870
+! Number of rules: 76,761
 !
 ! Please report any unblocked adverts or problems
 ! in the repo issues (https://github.com/j-dogcoder/AdGuardList/issues/new)
