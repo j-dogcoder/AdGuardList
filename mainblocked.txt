@@ -1,6 +1,6 @@
 ! Version: 0.0
 ! Title: Custom Main AdGuardList
-! Last modified: 26 Oct 2021 15:11 UTC
+! Last modified: 08 Nov 2021 15:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/j-dogcoder/AdGuardList
 ! Number of rules: 54870
@@ -10,11 +10,6 @@
 !
 !!!This list only applies to "AdGuard Home".
 !!!It is not intended for use on other AdGuard products.
-!
-!
-! Stuff in next section has been coustom added by me
-||https://yt3.ggpht.com/^
-!
 !
 @@||ad.azure.com^
 @@||ads.taboola.com^

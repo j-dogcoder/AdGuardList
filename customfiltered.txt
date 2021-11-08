@@ -1,0 +1,15 @@
+! Version: 0.0
+! Title: Custom Pruned AdGuardList
+! Last modified: 08 Nov 2021 15:11 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/j-dogcoder/AdGuardList
+! Number of rules: 2
+!
+! Please report any unblocked adverts or problems
+! in the repo issues (https://github.com/j-dogcoder/AdGuardList/issues/new)
+!
+!!!This list only applies to "AdGuard Home".
+!!!It is not intended for use on other AdGuard products.
+!
+||https://yt3.ggpht.com/^
+||promo.vador.com/^
