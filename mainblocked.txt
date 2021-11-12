@@ -25918,7 +25918,6 @@
 ||monero-miner.net^
 ||monero.how^
 ||monerominer.rocks^
-||moneroocean.stream^
 ||xfo.monesyy.com^
 ||monetate.net^
 ||monetizer101.com^
@@ -29098,7 +29097,6 @@
 ||parchmentwhale.com^
 ||parcle.io^
 ||parding.info^
-||go.pardot.com^
 ||parentful.club^
 ||discover.parexel.com^
 ||parflushfeet.com^
